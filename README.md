@@ -1,4 +1,4 @@
-# Online Shopping System
+# ShopEase – MERN Stack E-Commerce Platform
 
 A full-stack Online Shopping web application built using React, Node.js, Express, and MongoDB.
 
